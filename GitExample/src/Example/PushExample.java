@@ -15,6 +15,7 @@ public class PushExample {
 		System.out.println("Ciao. Come Stai?");
 		System.out.println("Ciao. Come Stai?");
 		System.out.println("Ciao. Come Stai?");
+		System.out.println("Funziona?");
 	}
 
 }
