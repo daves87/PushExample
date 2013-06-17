@@ -9,6 +9,12 @@ public class PushExample {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
+		System.out.println("Ciao. Come Stai?");
 	}
 
 }
